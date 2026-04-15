@@ -32,7 +32,7 @@ The program consists of seven Excel sheets and a VBA core:
 
 For detailed usage instructions, please refer to the following manual.
 
-*   [manualEnSh.pdf](https://github.com/shuya-abe/excel-for-two-sided-matching/blob/main/manualEnSh.pdf)
+*   [manual_en.pdf](https://github.com/shuya-abe/Analyzing-Inefficiency-and-Preference-Manipulation-in-Two-Sided-Matching/blob/main/manual_en.pdf)
 
 ## Author and Developers
 
